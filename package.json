@@ -1,0 +1,17 @@
+{
+  "name": "irantom",
+  "version": "1.0.0",
+  "description": "project test for IranTom",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Akbari",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/events-api": "^2.2.0",
+    "@slack/web-api": "^5.0.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
